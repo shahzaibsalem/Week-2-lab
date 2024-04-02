@@ -1,7 +1,0 @@
-C:\OOP week2\Week 2 lab\sales project\bin\Debug\sales project.exe.config
-C:\OOP week2\Week 2 lab\sales project\bin\Debug\sales project.exe
-C:\OOP week2\Week 2 lab\sales project\bin\Debug\sales project.pdb
-C:\OOP week2\Week 2 lab\sales project\obj\Debug\sales project.csproj.AssemblyReference.cache
-C:\OOP week2\Week 2 lab\sales project\obj\Debug\sales project.csproj.CoreCompileInputs.cache
-C:\OOP week2\Week 2 lab\sales project\obj\Debug\sales project.exe
-C:\OOP week2\Week 2 lab\sales project\obj\Debug\sales project.pdb
